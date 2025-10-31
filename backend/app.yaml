@@ -1,0 +1,6 @@
+runtime: nodejs22
+env_variables:
+  SECRETKEY: 'SUPER_SECRET_KEY'
+  MONGO_URI: 'mongodb+srv://yumejich:I6k44LkrNBgDgQ8l@cluster0.u7k0e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+  ARTSY_TOKEN_CLIENTID: 'c80bec7207885584d2c4'
+  ARTSY_TOKEN_CLIENTSECRET: '94b7b6823db92a926ea8b020ac47dd70'

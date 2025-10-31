@@ -1,0 +1,35 @@
+# Android Studio / IntelliJ IDEA
+*.iml
+.gradle
+.idea/
+local.properties
+.DS_Store
+
+# Build
+frontend/build/
+frontend/app/build/
+frontend/.gradle/
+backend/node_modules/
+
+# Android
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+release/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
