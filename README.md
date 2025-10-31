@@ -2,6 +2,15 @@
 
 This is the **Android mobile version** of the Artist Info Searching App.
 
+## 📱 App Demo
+
+<div align="center">
+  <video width="400" controls>
+    <source src="assets/app-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Related Repository
 
 The web version of this application can be found at: **[Artist-Info-Searching-App](https://github.com/Yumejichi/Artist-Info-Searching-App)**
