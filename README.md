@@ -6,7 +6,7 @@ This is the **Android mobile version** of the Artist Info Searching App.
 
 <div align="center">
 
-[![Watch Demo Video](https://img.shields.io/badge/▶️-Watch%20App%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Yumejichi/Artist-Info-Searching-App-Android/raw/main/assets/app-demo.mp4)
+[![Watch Demo Video](https://img.shields.io/badge/▶️-Watch%20App%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Yumejichi/Artist-Info-Searching-App-Android/raw/main/assets/app-demo.mov)
 
 **Click the button above to watch the demo video**
 
