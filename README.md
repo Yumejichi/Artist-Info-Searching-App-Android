@@ -6,7 +6,7 @@ This is the **Android mobile version** of the Artist Info Searching App.
 
 <div align="center">
 
-[![Watch Demo Video](https://img.youtube.com hingga/cF-b9Hr-PX0/maxresdefault.jpg)](https://youtu.be/cF-b9Hr-PX0)
+[![Watch Demo Video](https://img.youtube.com/vi/cF-b9Hr-PX0/maxresdefault.jpg)](https://youtu.be/cF-b9Hr-PX0)
 
 **Click the thumbnail above to watch the demo video on YouTube**
 
