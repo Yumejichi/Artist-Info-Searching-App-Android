@@ -6,9 +6,9 @@ This is the **Android mobile version** of the Artist Info Searching App.
 
 <div align="center">
 
-[![Watch Demo Video](https://img.shields.io/badge/▶️-Watch%20App%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Yumejichi/Artist-Info-Searching-App-Android/raw/main/assets/app-demo.mov)
+[![Watch Demo Video](https://img.youtube.com hingga/cF-b9Hr-PX0/maxresdefault.jpg)](https://youtu.be/cF-b9Hr-PX0)
 
-**Click the button above to watch the demo video**
+**Click the thumbnail above to watch the demo video on YouTube**
 
 </div>
 
@@ -38,9 +38,11 @@ The backend is exactly the same as the web app. The public folder can be found i
 ## Setup
 
 ### Backend
+
 The backend setup is the same as the web app repository. See the [Artist-Info-Searching-App](https://github.com/fujitayumejitsu/Artist-Info-Searching-App) repository for backend setup instructions.
 
 ### Android App
+
 1. Open the project in Android Studio
 2. Sync Gradle files
 3. Build and run the app
