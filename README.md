@@ -6,20 +6,14 @@ This is the **Android mobile version** of the Artist Info Searching App.
 
 <div align="center">
 
-https://github.com/Yumejichi/Artist-Info-Searching-App-Android/raw/main/assets/app-demo.mp4
+<video width="600" controls>
+  <source src="https://github.com/Yumejichi/Artist-Info-Searching-App-Android/raw/main/assets/app-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
-<details>
-<summary>📺 Click here to watch the demo video</summary>
-
-<div align="center">
-  
-[![Watch the video](https://img.shields.io/badge/▶️-Play%20Demo%20Video-red?style=for-the-badge&logo=youtube)](https://github.com/Yumejichi/Artist-Info-Searching-App-Android/raw/main/assets/app-demo.mp4)
-
-</div>
-
-</details>
+> 💡 Click the play button above to watch the app demo video
 
 ## Related Repository
 
