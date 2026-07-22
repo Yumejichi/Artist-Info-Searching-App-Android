@@ -4,7 +4,6 @@ This is the **Android mobile version** of the Artist Info Searching App.
 
 ## 📱 App Demo
 
-<div align="center">
 [![Watch Demo Video](https://img.youtube.com/vi/5syYzWZ0Sk4/hqdefault.jpg)](https://youtu.be/5syYzWZ0Sk4)
 
 **Click the thumbnail above to watch the demo video on YouTube**
